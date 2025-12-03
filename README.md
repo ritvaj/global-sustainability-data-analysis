@@ -1,4 +1,4 @@
-# 🌍 Sustainability Trends: Global CO₂ Emissions & Deforestation Analysis  
+# Sustainability Trends: Global CO₂ Emissions & Deforestation Analysis  
 
 **A relational SQL + Power BI project exploring global inequalities in emissions and forest loss.**  
 I built a MySQL database, cleaned data with Python/Excel, and created narrative-rich dashboards in Power BI to cut through misinformation and present clear insights.  
