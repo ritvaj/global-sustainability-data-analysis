@@ -120,5 +120,5 @@ This project is my attempt to use **data storytelling** to highlight where respo
  
 
 ## 👤 About Me
-I’m **Ritvaj Madotra**, a data analyst passionate about combining **SQL, Python, BI, and storytelling** to drive business impact.  
+I’m **Ritvaj Madotra**, a data analyst passionate about using **SQL, Python, BI, and storytelling** to drive business impact.  
 📌 Connect: [LinkedIn](https://www.linkedin.com/in/ritvajmadotra) | [GitHub](https://github.com/ritvaj)
