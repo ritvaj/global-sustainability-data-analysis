@@ -24,7 +24,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 
 ## 🛠 Tools & Skills Applied
 - **SQL (MySQL):** Built relational schema, joins, calculated columns, and PK constraints.  
-- **Python (pandas):** Cleaned raw CSV (deforestation) programmatically.  
+- **Python (pandas):** Cleaned raw CSV (deforestation).  
 - **Excel:** Manual profiling & cleaning for other datasets.  
 - **Power BI:** Data model, DAX measures, time intelligence, storytelling visuals.  
 - **Accessibility & UX:** High-contrast visuals, simple navigation, alt text, readability focus.  
