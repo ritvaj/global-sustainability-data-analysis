@@ -16,7 +16,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 ---
 
 ## 🎯 Objectives
-- Analyze global CO₂ emissions and deforestation from 1990–2021.  
+- Analyze global CO₂ emissions and deforestation using World Bank Data.  
 - Compare trends across **income groups** and **population levels**.  
 - Build dashboards that are **accessible, evidence-backed, and engaging** for both technical and non-technical audiences.  
 
