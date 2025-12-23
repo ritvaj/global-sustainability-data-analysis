@@ -117,7 +117,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 - [World Bank: Co2 emissions](https://data.worldbank.org/indicator/EN.GHG.CO2.PC.CE.AR5)  
 - [World Bank: Deforestation](https://data.worldbank.org/indicator/AG.LND.FRST.ZS) 
 
- 
+--- 
 
 ## 👤 About Me
 I’m **Ritvaj Madotra**, a data analyst passionate about using **SQL, Python, BI, and storytelling** to drive business impact.  
