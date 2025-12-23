@@ -56,7 +56,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 # 📊 Visuals
 
 ### Database Schema
-![Database Schema](docs/Relational_model.png)
+<img src="docs/Relational_model.png" width="700"><br><br>
 
 ### Dashboards
 **CO₂ Emissions (The Emission Gap)**  
